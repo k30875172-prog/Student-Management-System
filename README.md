@@ -20,4 +20,4 @@ A simple Student Management System built using Python.
 
 ## About
 This is my beginner python project as a first-year B.TECH cse student.
-Created my Kushal
+Created by Kushal
